@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Suman Mukhiya</h1>
-<h3 align="center">Tech Enthusiast | Learning web development and Graphic designing</h3>
+<h3 align="center">Tech Enthusiast | Learning web development | Graphic designing | Software Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyborgmkh&label=Profile%20views&color=0e75b6&style=flat" alt="cyborgmkh" /> </p>
 
-- 🌱 I’m currently learning **html, CSS, JavaScript etc.**
+- 🌱 I’m currently learning **html, CSS, JavaScript, Java, C# etc.**
 
 - 📫 How to reach me **sumanmukhiya@ismt.edu.np**
 
-- ⚡ Fun fact **I think I am funny.**
+- ⚡ Fun fact **I think I am not funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
